@@ -1,1 +1,1 @@
-# Alzheimer-s-Pred
+# Alzheimer-s-Classification
